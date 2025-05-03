@@ -1,6 +1,6 @@
 include("mainproject", "subproject")
 
-rootProject.name="analyzer-runtest"
+rootProject.name="testmulti"
 
 pluginManagement {
     val codeartifactUri: String by settings
